@@ -1,6 +1,6 @@
 # Sina-Weibo-Spider
-*Only a toy for gf
-*Implemented on 2019/2/2.新浪反爬很勤劳，可能未来会失效。
+*Only a toy for gf  
+*Implemented on 2019/2/2.新浪反爬很勤劳，可能未来会失效。  
 *爬取单一博主微博+Jieba中文分词(包含停用词去除)+利用在线工具生成词云
 
 # 运行环境
