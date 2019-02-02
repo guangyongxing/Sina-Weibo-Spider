@@ -66,7 +66,7 @@ example看zxmtingyongci.txt
 # 词云生成
 用在线词云生成工具<https://wordart.com>即可，但是要导入中文字体包。中文字体下载地址，可能需要在墙外才能下：  
 1. <https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip>
-2. <https://noto-website.storage.googleapis.com/pkgs/NotoSerifCJKsc-hinted.zip>
+2. <https://noto-website.storage.googleapis.com/pkgs/NotoSerifCJKsc-hinted.zip>  
 导入字体FONTS->导入文本WORDS->可视化即可
 
 
