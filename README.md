@@ -71,8 +71,9 @@ jieba库教程：<https://www.jianshu.com/p/809b42b864df>
 1. <https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip>
 2. <https://noto-website.storage.googleapis.com/pkgs/NotoSerifCJKsc-hinted.zip>  
 导入字体FONTS->导入文本WORDS->可视化即可  
+![](https://github.com/lemoshu/Sina-Weibo-Spider/blob/master/loveframe.png)
 ![](https://github.com/lemoshu/Sina-Weibo-Spider/blob/master/wordcloud.png)  
-  
+
     
     
 Edited by Jack Xu
