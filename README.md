@@ -9,9 +9,9 @@
 
 # 使用说明
 ## 1.如何获取cookie
-1.用Chrome打开<https://passport.weibo.cn/signin/login>；<br>
-2.输入微博的用户名、密码，登录.登录成功后会跳转到<https://m.weibo.cn>;<br>
-3.按F12键打开Chrome开发者工具,在地址栏输入并跳转到<https://weibo.cn>
+1.用Chrome打开<https://passport.weibo.cn/signin/login>；<br>  
+2.输入微博的用户名、密码，登录.登录成功后会跳转到<https://m.weibo.cn>;<br>  
+3.按F12键打开Chrome开发者工具,在地址栏输入并跳转到<https://weibo.cn>  
 4.点击Chrome开发者工具“Name"列表中的"weibo.cn",点击"Headers"，其中"Request Headers"下，"Cookie"后的值即为我们要找的cookie值，复制即可
 
 ## 2.按需求修改脚本,如果只是想做词云，注释掉该注释的
