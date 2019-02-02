@@ -4,7 +4,7 @@
 *爬取单一博主微博+Jieba中文分词(包含停用词去除)+利用在线工具生成词云
 
 # 运行环境
-- 开发语言：python2/python3
+- 开发语言：python3
 - 系统： Windows/Linux
 
 # 使用说明  
