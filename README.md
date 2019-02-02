@@ -8,7 +8,7 @@
 - 系统： Windows/Linux
 
 # 使用说明  
-*先使用weiboSpider.py 进行微博爬取
+*先使用weiboSpider.py 进行微博爬取，注意pip下载该下的库
 ## 1.获取cookie
 1.用Chrome打开<https://passport.weibo.cn/signin/login>；<br>  
 2.输入微博的用户名、密码，登录.登录成功后会跳转到<https://m.weibo.cn>;<br>  
