@@ -61,13 +61,13 @@ user_id可以改成任意合法的用户id（爬虫的微博id除外）；filter
 
 # Jieba中文分词及统计
 使用wordcloud2.py 进行中文分词及统计，其中停用词可以网上下载加自己补充，注意保存txt为utf-8编码格式。  
-example看zxmtingyongci.txt
+example看zxmtingyongci.txt  
 ![](https://github.com/lemoshu/Sina-Weibo-Spider/blob/master/TIM截图20190202230906.png)
 
 # 词云生成
 用在线词云生成工具<https://wordart.com>即可，但是要导入中文字体包。中文字体下载地址，可能需要在墙外才能下：  
 1. <https://noto-website.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip>
 2. <https://noto-website.storage.googleapis.com/pkgs/NotoSerifCJKsc-hinted.zip>  
-导入字体FONTS->导入文本WORDS->可视化即可
+导入字体FONTS->导入文本WORDS->可视化即可  
 ![](https://github.com/lemoshu/Sina-Weibo-Spider/blob/master/wordcloud.png)
 
